@@ -1,1 +1,5 @@
-name, date, description
+Mathew Sherry
+04-29-2015
+
+Using a light to generate a shadow given my object from Lab #3. Code currently does something really weird.
+Looks kinda cool though if you can get past the dissappearing shape. :P
